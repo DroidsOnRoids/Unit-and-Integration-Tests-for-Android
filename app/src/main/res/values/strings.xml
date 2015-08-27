@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Roman Numerals Converter</string>
+
+    <string name="convert">Convert</string>
+    <string name="result">Arabic %1$d is Roman %2$s</string>
+
+    <string name="hint_arabic_number">Arabic number</string>
+
+    <string name="error_invalid_number">Invalid number!</string>
+    <string name="error_non_positive_number">Non-positive number!</string>
+</resources>
